@@ -1,0 +1,42 @@
+
+
+.grid-container {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-gap: 10px;
+}
+
+.grid-item {
+  background-color: lightgreen;
+  padding: 20px;
+  text-align: center;
+  }
+
+</nav> {
+    display: flex;
+    gap: 1.5rem;
+    align-items: center;
+    backround-color: #1a3a5c;
+    padding-top: 12px;
+    padding-bottom:
+    border-radius
+    </nav> }
+
+.layout.grid {
+display: grid;
+gap: 20px;
+    </nav> 
+    </nav> 
+align-items::after
+
+.flex-container {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.box {
+  background-color: lightblue;
+  padding: 20px;
+  text-align: center;
+}
